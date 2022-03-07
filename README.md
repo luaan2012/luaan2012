@@ -1,7 +1,7 @@
 ## Hi Guys! Sou o Luan, apaixonado por técnologia e as inumeras inovações que ela pode trazer!!
 
 
-- 🔭 Me considero Full Stack, mas ainda preciso de provar no mercado de trabalho!
+- 🔭 Full stack, a procura de uma oportunidade!
 - 🌱 Atualmente aprendendo C# 
 - 📫 Contate-me em: oempreg.yes@outlook.com.br
 
