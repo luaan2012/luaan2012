@@ -1,8 +1,8 @@
 ## Hi Guys! Sou o Luan, apaixonado por técnologia e as inumeras inovações que ela pode trazer!!
 
 
-- 🔭 Full stack, a procura de uma oportunidade!
-- 🌱 Atualmente aprendendo C# 
+- 🔭 Full stack
+- 🌱 DotNet, Jquery, JS, Angular, TypeScript
 - 📫 Contate-me em: oempreg.yes@outlook.com.br
 
 <div align="center">
