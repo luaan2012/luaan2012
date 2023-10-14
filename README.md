@@ -3,6 +3,7 @@
 - 🔭 Full Stack Developer
 - 🌱 Specializing in .NET 7, React, Next.js, TypeScript, JavaScript
 - 💼 Professional with over 3 years of experience in .NET 7
+- 🌐 [Check out my Portfolio](https://portfolioluan.shop)
 - 📫 Get in touch: oempreg.yes@outlook.com.br
 
 **About Me:**
