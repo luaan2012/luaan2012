@@ -1,9 +1,17 @@
-## Hi Guys! Sou o Luan, apaixonado por técnologia e as inumeras inovações que ela pode trazer!!
+## Hello there! I'm Luan, a technology enthusiast driven by the endless possibilities it brings!
 
+- 🔭 Full Stack Developer
+- 🌱 Specializing in .NET 7, React, Next.js, TypeScript, JavaScript
+- 💼 Professional with over 3 years of experience in .NET 7
+- 📫 Get in touch: oempreg.yes@outlook.com.br
 
-- 🔭 Full stack
-- 🌱 DotNet, Jquery, JS, Angular, TypeScript
-- 📫 Contate-me em: oempreg.yes@outlook.com.br
+**About Me:**
+
+I'm a dedicated developer with a passion for exploring the ever-evolving world of technology. My expertise spans a wide range of skills, including full-stack development, with a particular focus on .NET 7, React, Next.js, and related technologies.
+
+Furthermore, my ongoing commitment to mastering C# and my extensive knowledge of distributed systems, Docker, Git, TFS, RabbitMQ, Linux, and DevOps enable me to approach challenges with confidence. I continually seek new opportunities to learn and grow, maintaining my enthusiasm for the ever-changing landscape of technology.
+
+If you're looking for a versatile and passionate developer to contribute to your project, feel free to reach out to me at: oempreg.yes@outlook.com.br.
 
 <div align="center">
   <a href="https://github.com/luaan2012">
